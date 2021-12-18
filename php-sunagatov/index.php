@@ -25,7 +25,7 @@
 <li><a href="lab-1-1.php">Упражнение 1-2</a></li>
 <li><a href="lab-1-2.php">Упражнение 1-3</a></li>
 <li><a href="lab-1-3.php">Упражнение 1-4</a></li>
-<li><a href="lab1-5.php">Упражнение 1-5</a></li>
+<li><a href="lab-1-5.php">Упражнение 1-5</a></li>
 <li><a href="lab-2-1.php">Упражнение 1-6</a></li>
 <li><a href="lab-2-2.php">Упражнение 1-7</a></li>
 <li><a href="lab-2-3.php">Упражнение 1-8</a></li>
