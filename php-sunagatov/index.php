@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>Сунагатов Ильгиз</title>
-<link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="design/design321.css">
-
-
-</head>
-
-<body>
-<div class = "styles">
 <p> Работу выполнил: Сунагатов И.Р., ПИ-321
 <p> 
 <p> Дата и время:
@@ -25,7 +12,7 @@
 <li><a href="lab-1-1.php">Упражнение 1-2</a></li>
 <li><a href="lab-1-2.php">Упражнение 1-3</a></li>
 <li><a href="lab-1-3.php">Упражнение 1-4</a></li>
-<li><a href="lab-1-5.php">Упражнение 1-5</a></li>
+<li><a href="lab1-5.php">Упражнение 1-5</a></li>
 <li><a href="lab-2-1.php">Упражнение 1-6</a></li>
 <li><a href="lab-2-2.php">Упражнение 1-7</a></li>
 <li><a href="lab-2-3.php">Упражнение 1-8</a></li>
@@ -53,12 +40,22 @@
 <?php
 require_once "lab-26.php";
 
-
 ?>
+<p>Ссылки на Лабораторную работу №3:
+<p>
 
-</div>
+<li><a href="f1_get.php">Упражнение 3-1</a></li>
+<li><a href="f2_post.php">Упражнение 3-2</a></li>
+<li><a href="f3_p.php">Упражнение 3-3</a></li>
+<li><a href="f4_p.php">Упражнение 3-4</a></li>
+<li><a href="f5_p.php">Упражнение 3-5</a></li>
+<li><a href="f6_p.php">Упражнение 3-6</a></li>
+<li><a href="f7.php">Упражнение 3-7</a></li>
+<li><a href="s3-1.php">Задача 3-1</a></li>
+<li><a href="s3-2.php">Задача 3-2</a></li>
+<li><a href="s3-3.php">Задача 3-3</a></li>
+<li><a href="s3-4.php">Задача 3-4</a></li>
+<li><a href="s3-5.php">Задача 3-5</a></li>
+<li><a href="s3-6.html">Задача 3-6</a></li>
 
-
-<body>
-</html>
-
+</ul>
