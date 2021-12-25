@@ -1,6 +1,6 @@
 <?php
 foreach ($_POST as $key => $string) {
-  $_POST[$key] = iconv("cp1251", "UTF-8", $string);
+  $_POST[$key] = iconv("UTF-8", "UTF-8", $string);
 }
 if ((!is_numeric($_POST["c"])) or (empty($_POST["text1"]))) {
           echo "Введите корректные данные";
